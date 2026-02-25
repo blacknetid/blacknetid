@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi There! 👋🏻<br>We BLACKNETID x DARKXCODE<br>🧑‍💻 We are API Developers, Backend Developers, Software Developers and Pentesters.<br>Passionate Software Engineer with a deep focus on Backend Development and API Design.<br><br>I spend my days designing, building, and optimizing powerful backend systems and intuitive APIs. I believe that well-designed APIs are the backbone of seamless digital experiences. I also actively develop full-stack web applications to enhance products from the front-end to the database.<br><br>Tech Stack:<br>- 🔭 Languages: JavaScript/TypeScript, Python, PHP, Java<br>- 🚀 Backend Frameworks: Express (Node.js), Django, Laravel, Spring Boot<br>- 🗃️ API Technologies: REST, GraphQL, gRPC, OpenAPI/Swagger<br>- ☁️ Infrastructure: Docker, Kubernetes, AWS (Lambda, API Gateway, RDS), GCP<br><br>Tired of confusing API documentation? Let's chat! I love sharing my experiences on best practices in API development.
 
+# SHOP : https://darkxcode.shop/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darkxcode_) 
